@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Oleg Avgustinov",
+      "authorEmail": "avgustinov.oleg@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
